@@ -1,0 +1,10 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Model files
+*.h5
+*.pkl
